@@ -8,8 +8,8 @@ and npm (Node Package Manager) installed
 # Getting Started
 Clone the repository:
 ```
-git clone <repository-url>
-cd simple-rest-server
+git clone https://github.com/sachings24/actian-careers.git
+cd actian-careers
 ```
 Create .env file and add below variables:
 ```
